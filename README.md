@@ -1,2 +1,2 @@
 Hello!! 
-This is a Upadated README.md File of my Project.
+This is a Updated README.md File of my Project.
